@@ -1,0 +1,13 @@
+C:\Users\MANU\source\repos\covidpatients\covidpatients\bin\Debug\covidpatients.exe.config
+C:\Users\MANU\source\repos\covidpatients\covidpatients\bin\Debug\covidpatients.exe
+C:\Users\MANU\source\repos\covidpatients\covidpatients\bin\Debug\covidpatients.pdb
+C:\Users\MANU\source\repos\covidpatients\covidpatients\obj\Debug\covidpatients.csprojAssemblyReference.cache
+C:\Users\MANU\source\repos\covidpatients\covidpatients\obj\Debug\covidpatients.Properties.Resources.resources
+C:\Users\MANU\source\repos\covidpatients\covidpatients\obj\Debug\covidpatients.csproj.GenerateResource.cache
+C:\Users\MANU\source\repos\covidpatients\covidpatients\obj\Debug\covidpatients.csproj.CoreCompileInputs.cache
+C:\Users\MANU\source\repos\covidpatients\covidpatients\obj\Debug\covidpatients.exe
+C:\Users\MANU\source\repos\covidpatients\covidpatients\obj\Debug\covidpatients.pdb
+C:\Users\MANU\source\repos\covidpatients\covidpatients\obj\Debug\covidpatients.frmSearchPatients.resources
+C:\Users\MANU\source\repos\covidpatients\covidpatients\obj\Debug\covidpatients.frmPatients.resources
+C:\Users\MANU\source\repos\covidpatients\covidpatients\obj\Debug\covidpatients.MDIProject.resources
+C:\Users\MANU\source\repos\covidpatients\covidpatients\obj\Debug\covidpatients.frmlogin.resources
